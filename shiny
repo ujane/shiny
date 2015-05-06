@@ -5,11 +5,10 @@ Standards-Version: 3.9.2
 
 Package: shiny
 Version: 0.0.1
-Maintainer: jane arc <jane@cpan.org>
-Depends: equivs checkinstall build-essential libmpc-dev libmpfr-dev libgmp-dev
-Architecture: x64
+Maintainer: jane arc <jane@uber.com>
+Depends: equivs | checkinstall | build-essential | libmpc-dev | libmpfr-dev | libgmp-dev
+Architecture: all
 Copyright: CC0-1.0.md
-# Changelog: Changelog.md
 Readme: README.md
 Description: things jane finds useful for her environment on debians
  just packages i find myself installing literally everywhere
