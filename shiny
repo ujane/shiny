@@ -1,0 +1,15 @@
+Section: misc
+Priority: optional
+Homepage: https://github.com/ujane/shiny
+Standards-Version: 3.9.2
+
+Package: shiny
+Version: 0.0.1
+Maintainer: jane arc <jane@cpan.org>
+Depends: equivs checkinstall build-essential libmpc-dev libmpfr-dev libgmp-dev
+Architecture: x64
+Copyright: CC0-1.0.md
+# Changelog: Changelog.md
+Readme: README.md
+Description: things jane finds useful for her environment on debians
+ just packages i find myself installing literally everywhere
